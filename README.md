@@ -1,11 +1,13 @@
-# Hi there. I'm Buju, a Automation Developer 👋🏽
+# Hi there. I'm Buju, a Automation Developer 👋🏽   
 
+![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
 
 - 👉🏽 I’m currently working on building out my professional portfolio
 - 👉🏽  I’m currently learning React, TailwindCSS and MySQL
 - 👉🏽  I’m looking to connect with like-minded individuals
 - 👉🏽  Fun fact: At the age of 15 I moved out of London to Lincolnshire - we ended up owning 8 cows at one point!
 - 📫 How to reach me: bujuheaton02@gmail.com
+
 
 ## Professional Summary
 An experienced data and AI consultant with extensive skills and experience in delivering data-related strategies to customers in the retail and construction industries. Proficient in business intelligence, automation, AI technologies and web development, with a proven track record of delivering impactful results. Committed to staying up to date with the latest industry developments and utilising cutting-edge technologies to drive business success.
@@ -19,4 +21,4 @@ An experienced data and AI consultant with extensive skills and experience in de
 
 ![Buju's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujuheatonadegbile&show_icons=true&theme=shades-of-purple) 
 
-![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
+
