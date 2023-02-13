@@ -1,4 +1,4 @@
-### Hi there, I'm Buju, a Automation Developer👋
+### Hi there. I'm Buju, a Automation Developer👋
 
 
 - 🔭 I’m currently working on building my portfolio
