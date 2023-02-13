@@ -19,4 +19,4 @@ An experienced data and AI consultant with extensive skills and experience in de
 
 ![Buju's GitHub stats](https://github-readme-stats.vercel.app/api?username=bujuheatonadegbile&show_icons=true&theme=shades-of-purple) 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
+![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
