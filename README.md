@@ -1,4 +1,4 @@
-# 👋🏾 Hi there. I'm Buju, a Automation Developer 
+# 👋🏾 Hi there. I'm Buju, an Automation Developer 
 
 ![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
 
