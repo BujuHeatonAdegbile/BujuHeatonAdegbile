@@ -2,10 +2,11 @@
 
 ![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
 
-- 👉🏽 I’m currently working on building out my professional portfolio
-- 👉🏽  I’m currently learning React, TailwindCSS and MySQL
-- 👉🏽  I’m looking to connect with like-minded individuals
-- 👉🏽  Fun fact: At the age of 15 I moved out of London to Lincolnshire - we ended up owning 8 cows at one point!
+- 🌍  I'm based in London
+- 🚀  I’m currently working on building out my professional portfolio
+- 🧠  I’m currently learning React, TailwindCSS and MySQL
+- 🤝🏽  I’m looking to connect with like-minded individuals
+- ⚡️   Fun fact: At the age of 15 I moved out of London to Lincolnshire - we ended up owning 8 cows at one point!
 - 📫 How to reach me: bujuheaton02@gmail.com
 
 
