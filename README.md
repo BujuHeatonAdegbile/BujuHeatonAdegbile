@@ -2,7 +2,7 @@
 
 ![visits](https://visitor-badge.glitch.me/badge?page_id=bujuheatonadegbile&left_color=green&right_color=red)
 
-- 🌍  I'm based in London
+- 🌍  I'm based in 🇬🇧
 - 🚀  I’m currently working on building out my professional portfolio
 - 🧠  I’m currently learning React, TailwindCSS and MySQL
 - 🤝🏽  I’m looking to connect with like-minded individuals
