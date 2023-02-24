@@ -12,7 +12,7 @@
 
 ## 👨🏽‍💻 Professional Summary
 
-An experienced data and AI consultant with extensive skills and experience in delivering data-related strategies to customers in the retail and construction industries. Proficient in business intelligence, automation, AI technologies and web development, with a proven track record of delivering impactful results. Committed to staying up to date with the latest industry developments and utilising cutting-edge technologies to drive business success.
+I am an experienced data and AI consultant with extensive skills and experience in delivering data-related strategies to customers in the retail and construction industries. Proficient in business intelligence, automation, AI technologies and web development, with a proven track record of delivering impactful results. Committed to staying up to date with the latest industry developments and utilising cutting-edge technologies to drive business success.
 
 ## 💡 Check Out My Web Development Stack
 
