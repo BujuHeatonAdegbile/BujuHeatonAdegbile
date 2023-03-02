@@ -6,7 +6,7 @@
 - 🚀  I’m currently working on building out my professional portfolio
 - 🧠  I’m currently learning React and TailwindCSS
 - 🤝🏽  I enjoy connecting with like-minded individuals - give me a follow :)
-- ⚡️   Fun fact: At the age of 15 I moved out of London to Lincolnshire - we ended up owning 8 cows at one point! (update - I now live back in London)
+- ⚡️   Fun fact: At the age of 15 I moved out of London to Lincolnshire - we ended up owning 8 cows at one point!
 - 📫 How to reach me: bujuheaton02@gmail.com
 
 
